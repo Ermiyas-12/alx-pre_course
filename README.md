@@ -1,1 +1,1 @@
-My first readme is hard for me
+My first readme
